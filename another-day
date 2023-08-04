@@ -1,0 +1,21 @@
+h1{font-size:18px;font-family:nunito;}
+h2{font-size:13px;font-family:nunito}
+a {color:#999;text-decoration:none;}
+
+.ad-background-container {width: 500px;margin: 10px auto;background-color: #ffffff; padding: 50px;overflow: auto;font-family: inter;font-size:13px;letter-spacing:1px;}
+
+.ad-box {background-color: #f9f9f9;border-radius: 30px;overflow: hidden;height:200px;}
+
+.ad-picture-section {width: 200px;box-sizing: border-box;align:center;float: left;}
+
+.ad-picture {width: 200px;height: 200px;}
+
+.ad-details-section {width: 40%;float: left; margin:0px 50px 0px;height:70px;overflow:auto;font-size:11px;line-height:14px;letter-spacing:1px;text-transform:lowercase;}
+
+.ad-info {width: 40%;float: left;margin:30px 50px 0px;line-height:12px;}
+
+.ad-blurb {padding-bottom:30px;text-align:justify;}
+.ad-blurb h1 {text-align:center;font-size:25px;text-transform:uppercase;}
+.ad-blurb b {font-size:12px;text-transform:uppercase;}
+.ad-blurb i {font-size:12px;text-decoration:underline;}
+.ad-credit {text-align:center;font-size:11px;margin-top:50px;}
