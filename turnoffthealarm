@@ -1,0 +1,52 @@
+@font-face {
+ src: url(https://files.jcink.net/uploads2/crueldecadence/MenoBanner_Bold.otf);
+ font-family: meno;
+}
+  
+  @font-face {
+ src: url(https://files.jcink.net/uploads2/crueldecadence/CreatoDisplay_Regular.otf);
+ font-family: creato;
+}
+
+    .turnoffthealarm {
+        font-family: creato;
+        font-size:11px;
+      letter-spacing:1px;
+      line-height:17px;
+        width:400px;
+      margin:auto;
+      text-align:justify;
+      border:1px solid black;
+      padding:60px;
+    }
+    
+    .turnoffthealarm h1 {
+        font-family: meno;
+        font-size:20px;
+        text-transform:uppercase;
+      text-align:center;
+      padding:10px;
+    }
+  
+  .turnoffthealarm img {
+    width:250px;
+    border:1px solid #eee;
+    padding:10px;
+  }
+  
+    .turnoffthealarm h2 {
+      font-family:meno;
+      font-size:20px;
+      line-height:14px;
+      text-transform:lowercase;
+      text-align:left;
+  }
+   
+  .turnoffthealarm .bb {
+    margin:20px;
+    padding:10px;
+    font-size:11px;
+    line-height:10px;
+    
+  }
+    
